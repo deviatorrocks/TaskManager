@@ -44,22 +44,11 @@ Task Manager is a simple task management application built with SwiftUI. It allo
     open TaskManager.xcodeproj
     ```
 ## Screenshot
-    - Task List View
     ![Task List View](https://github.com/deviatorrocks/TaskManager/blob/develop/Screenshots/Task-List-View.png)
-    
-    - Task List View - Todo
-    ![Task List View](https://github.com/deviatorrocks/TaskManager/blob/develop/Screenshots/Task-List-View-Todo.png)
-    
-    - Task List View - Done
-    ![Task List View](https://github.com/deviatorrocks/TaskManager/blob/develop/Screenshots/Task-List-View-Done.png)
-    
-    - Task List View - Options
-    ![Task List View](https://github.com/deviatorrocks/TaskManager/blob/develop/Screenshots/Task-List-options.png)
-    
-    - Task Form View - Form
+    ![Task List View Todo](https://github.com/deviatorrocks/TaskManager/blob/develop/Screenshots/Task-List-View-Todo.png)
+    ![Task List View Done](https://github.com/deviatorrocks/TaskManager/blob/develop/Screenshots/Task-List-View-Done.png)
+    ![Task List View Options](https://github.com/deviatorrocks/TaskManager/blob/develop/Screenshots/Task-List-options.png)
     ![Task Form View](https://github.com/deviatorrocks/TaskManager/blob/develop/Screenshots/Task-Form-View.png)
-
-Task Form View
 
 ## Project Structure
 
